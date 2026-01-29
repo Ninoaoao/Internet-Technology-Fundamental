@@ -3,7 +3,7 @@
 <head>
 	<title>Welcome to Internet Technology Fundamentals</title>
 	</head>
-	<body style="font-family: Arial;">
+	<body style="font-family: Times new roman;">
 		<h1>Welcome to Laboratory 1<h1>
 		<p> hi my name is king wingston i like some mac and cheese. </p>
 	</body>
